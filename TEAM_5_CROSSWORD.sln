@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TEAM_5_CROSSWORD", "TEAM_5_CROSSWORD\TEAM_5_CROSSWORD.pyproj", "{FAFB7974-64BB-4801-A798-00393F1BD306}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAFB7974-64BB-4801-A798-00393F1BD306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAFB7974-64BB-4801-A798-00393F1BD306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5F14991-E7C2-4A1C-8346-4DBBD1CAB37E}
+	EndGlobalSection
+EndGlobal
